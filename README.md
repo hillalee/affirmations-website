@@ -8,11 +8,10 @@ Basic website for playing with terraform :)
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript  
-- Backend: AWS Lambda (serverless functions)  
+- Backend: AWS Lambda, Python
 - Infrastructure: Terraform managing AWS resources (EC2, S3, API Gateway, Lambda)  
 - API Gateway for HTTP triggers
 
 ## About
 This project is self-taught and built from scratch as part of exploring DevOps :) 
-If you'd like to recommend improvements or collaborate, please email me at:  
-**hilalee.or@gmail.com**
+If you'd like to recommend improvements or collaborate, please email me  :)
